@@ -1,0 +1,20 @@
+body { padding-top: 60px;background-image:url(school.png) }
+footer { margin-top: 100px;background-color: #ebebeb; padding: 30px 0; }
+table, td, th {
+  vertical-align: middle;
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+th { border-bottom: 1px solid #DDD; }
+.navbar { min-height: 38px;
+          background-color: #f55e55;
+}
+.navbar a.brand { font-size: 18px; }
+.navbar a.brand:hover { color: #fff;
+                        background-color: transparent;
+                        text-decoration: none; }
+.container input[type="submit"] { height: 30px;
+   font-size: 13px;
+    background-color: #f55e55;
+     border: none; color: #fff; }
